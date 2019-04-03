@@ -2,4 +2,4 @@
 CRUD  PHP-PDO- MYSQL -  CON JAVASCRIPT - JQUERY - AJAX ,  SESSIONES
 Y PAGINACION.
 
-![Alt text](Crud_PHP_ajax.png)
+![Alt text](CRUDPHPAJAX.png)
