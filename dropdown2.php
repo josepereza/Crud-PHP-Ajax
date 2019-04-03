@@ -47,7 +47,7 @@
        <?php 
 
 session_start();
-$pdo = new PDO('mysql:host=localhost;dbname=automoviles', 'root', '3266root');
+$pdo = new PDO('mysql:host=localhost;dbname=automoviles', 'root', '123456');
 
 
 if(isset($_POST['nombre'])){
